@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Associated Press - en Español",
+        "title": "TikTok banned on all Canadian government mobile devices - The Associated Press - en Español",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BvbGl0aWNzLW1vYmlsZS1hcHBzLWNhbmFkYS1nb3Zlcm5tZW50LXVuaXRlZC1zdGF0ZXMtanVzdGluLXRydWRlYXUtNDNiMjdhODBhMWMyYmYzYjU1ZTVjY2YyY2U1NzM2ODTSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T08:26:43Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Axios",
+        "title": "Rupert Murdoch admits Fox News hosts peddled election lies - Axios",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDIzLzAyLzI3L3J1cGVydC1tdXJkb2NoLWFkbWl0cy1mb3gtbmV3cy1ob3N0cy1wZWRkbGVkLWVsZWN0aW9uLWxpZXPSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T07:46:08Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNN",
+        "title": "Zero-calorie sweetener linked to heart attack, stroke, study finds - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yNy9oZWFsdGgvemVyby1jYWxvcmllLXN3ZWV0ZW5lci1oZWFydC1hdHRhY2stc3Ryb2tlLXdlbGxuZXNzL2luZGV4Lmh0bWzSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T07:37:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Reuters",
+        "title": "Florida Governor DeSantis ends 'corporate kingdom' of Walt Disney World - Reuters",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL2Zsb3JpZGEtZ292LWRlc2FudGlzLXNpZ25zLWJpbGwtYXNzZXJ0aW5nLXN0YXRlLW92ZXJzaWdodC1sYW5kLWFyb3VuZC13YWx0LTIwMjMtMDItMjcv0gEA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-02-28T06:59:00Z",
+        "content": null
+      }
+    ]
+    }
+    
